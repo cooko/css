@@ -1,0 +1,18 @@
+.EFP-title{
+	font-size: 2em;
+}
+.EFP-list{
+	columns: 3;
+	-webkit-columns: 3; /* Safari and Chrome */
+	-moz-columns: 3; /* Firefox */
+}
+.needs-container{
+
+}
+.needs-list{
+	margin:15px;
+
+}
+.need dt{
+	font-size: 1.5em;
+}
